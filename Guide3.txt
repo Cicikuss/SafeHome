@@ -1,0 +1,166 @@
+Tsunamis
+BBC
+26/09/2004
+[20:08, 25.02.2024] Aybüke Yaman: <div data-layout="single">
+<div data-menu-item-id="z8q2xbk">
+<div data-component="menu-heading-block">
+<h2>Earthquakes</h2>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div data-menu-item-id="zd7m6g8">
+<div data-component="menu-heading-block">
+<h3>What is an earthquake?</h3>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="text-block">
+<p>An earthquake is a sudden, violent shaking of the ground. An earthquake occurs when two&nbsp;<span data-testid="inline-glossary-term-wrapper"><button tabindex="0" type="button"><dfn>tectonic plates</dfn></button></span>&nbsp;push together. The pressure of these colliding plates builds up inside the Earth&rsquo;s crust. The point in the crust where the pressure is released is called the&nbsp;<strong>focus</strong>. The point on the Earth's surface above the focus is called the&nbsp;<strong>epicentre</strong>. When the pressure is too much it is suddenly released and waves of energy, called&nbsp;<span data-testid="inline-glossary-term-wrapper"><button tabindex="0" type="button"><dfn>seismic waves</dfn></button></span>, occur. These seismic waves travel through the earth causing it to shake.</p>
+<p>Find out more about&nbsp;<a href="https://www.bbc.co.uk/bitesize/articles/zrcgr2p">tectonic plates</a>.</p>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="infographic-block">
+<figure>
+<div>
+<div><picture><source srcset="https://bam.files.bbci.co.uk/bam/live/content/z2my4wx/small" type="false" /><source srcset="https://bam.files.bbci.co.uk/bam/live/content/z2my4wx/large" type="image/png" media="(min-width: 63rem)" /><source srcset="https://bam.files.bbci.co.uk/bam/live/content/z2my4wx/medium" type="image/png" media="(min-width: 37.5rem)" /><img src="https://bam.files.bbci.co.uk/bam/live/content/z2my4wx/small" srcset="https://bam.files.bbci.co.uk/bam/live/content/z2my4wx/small" alt="An illustration of how seismic waves moves through the earth" /></picture></div>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="text-block">
+<p>The shaking of the ground caused by an earthquake can cause a variety of effects. These can be classed as&nbsp;<strong>primary</strong>&nbsp;or&nbsp;<strong>secondary</strong>&nbsp;effects. Primary effects are caused by the earthquake itself, whereas the secondary effects are caused by the primary effects.</p>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div data-menu-item-id="z7nfvwx">
+<div data-component="menu-heading-block">
+<h3>Primary effects</h3>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="text-block">
+<ul>
+<li>Buildings may collapse due to the shaking of the ground.</li>
+<li>People may die if they are inside a building when it collapses.</li>
+<li>Roads may be blocked, gas and water pipes could be broken and electricity could be cut off.</li>
+</ul>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="image-block">
+<figure>
+<div><img title="" src="https://ichef.bbci.co.uk/images/ic/480xn/p0c40zqt.jpg" sizes="(min-width: 1008px) 1280px,(min-width: 600px) 624px,(min-width: 320px) 320px" srcset="https://ichef.bbci.co.uk/images/ic/240xn/p0c40zqt.jpg 240w, https://ichef.bbci.co.uk/images/ic/320xn/p0c40zqt.jpg 320w, https://ichef.bbci.co.uk/images/ic/480xn/p0c40zqt.jpg 480w, https://ichef.bbci.co.uk/images/ic/624xn/p0c40zqt.jpg 624w, https://ichef.bbci.co.uk/images/ic/800xn/p0c40zqt.jpg 800w, https://ichef.bbci.co.uk/images/ic/976xn/p0c40zqt.jpg 976w" alt="A photo of devastation after an earthquake, buildings fallen down, broken pipes and electrical wires down." /></div>
+<figcaption>Image caption,
+<div>The 2011 Tōhoku earthquake and tsunami in Japan caused widespread damage to the country, including the Fukushima Daiichi Nuclear Power Plant in Ōkuma</div>
+</figcaption>
+<…
+[20:09, 25.02.2024] Aybüke Yaman: <div data-layout="single">
+<div data-menu-item-id="z42xtrd">
+<div data-component="menu-heading-block">
+<h2>Responses to earthquakes</h2>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="text-block">
+<p>After an earthquake the affected country must respond. Some responses will happen very quickly (immediate responses) and some may go on for months or years (long-term responses).</p>
+<h3>Immediate:</h3>
+<ul>
+<li>People are rescued from destroyed buildings.</li>
+<li>People are evacuated.</li>
+<li>Emergency shelters are put in place.</li>
+</ul>
+<h3>Long-term:</h3>
+<ul>
+<li>Reconstruction of destroyed buildings will take place.</li>
+<li>Infrastructure such as roads repaired.</li>
+<li>Temporary housing is provided.</li>
+</ul>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="image-block">
+<figure>
+<div><img title="" src="https://ichef.bbci.co.uk/images/ic/480xn/p0c410b8.jpg" sizes="(min-width: 1008px) 1280px,(min-width: 600px) 624px,(min-width: 320px) 320px" srcset="https://ichef.bbci.co.uk/images/ic/240xn/p0c410b8.jpg 240w, https://ichef.bbci.co.uk/images/ic/320xn/p0c410b8.jpg 320w, https://ichef.bbci.co.uk/images/ic/480xn/p0c410b8.jpg 480w, https://ichef.bbci.co.uk/images/ic/624xn/p0c410b8.jpg 624w, https://ichef.bbci.co.uk/images/ic/800xn/p0c410b8.jpg 800w, https://ichef.bbci.co.uk/images/ic/976xn/p0c410b8.jpg 976w" alt="A rescue worker walks across rubble with a sniffer dog." />IMAGE SOURCE,GETTY IMAGES 486476129</div>
+<figcaption>Image caption,
+<div>Following an earthquake, countries must respond immediately to reduce the loss of life, including searching for survivors</div>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div data-menu-item-id="z63gcmn">
+<div data-component="menu-heading-block">
+<h2>Risk reduction</h2>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="text-block">
+<p>Countries can try to reduce the risk of damage from earthquakes by attempting to&nbsp;<strong>predict</strong>&nbsp;when they might occur,&nbsp;<strong>protecting</strong>&nbsp;their buildings to make them earthquake proof and&nbsp;<strong>preparing</strong>&nbsp;their population for what to do in the event of an earthquake.</p>
+<h3>Prediction</h3>
+<p>It is impossible to predict with certainty when an earthquake will happen but scientists can try in a number of ways. Using historical records&nbsp;<span data-testid="inline-glossary-term-wrapper"><button tabindex="0" type="button"><dfn>GPS</dfn></button></span>&nbsp;and&nbsp;<span data-testid="inline-glossary-term-wrapper"><button tabindex="0" type="button"><dfn>seismographs</dfn></button></span>&nbsp;to measure small tremors scientists can predict where they believe earthquakes will occur. There has been some evidence that monitoring changes in animal behaviour could be a way to predict imminent earthquakes and&nbsp;<span data-testid="inline-glossary-term-wrapper"><button tabindex="0" type="button"><dfn>seismologists</dfn></button></span>&nbsp;in China have monitoring stations in zoos for this reason.</p>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="image-block">
+<figure>
+<div><img title="" src="https://ichef.bbci.co.uk/images/ic/480xn/p0c414g6.jpg" sizes="(min-width: 1008px) 1280px,(min-width: 600px) 624px,(min-width: 320px) 320px" srcset="https://ichef.bbci.co.uk/images/ic/240xn/p0c414g6.jpg 240w, https://ichef.bbci.co.uk/images/ic/320xn/p0c414g6.jpg 320w, https://ichef.bbci.co.uk/images/ic/480xn/p0c414g6.jpg 480w, https://ichef.bbci.co.uk/images/ic/624xn/p0c414g6.jpg 624w, https://ichef.bbci.co.uk/images/ic/800xn/p0c414g6.jpg 800w, https://ichef.bbci.co.uk/images/ic/976xn/p0c414g6.jpg 976w" alt="A hand pointing at a piece of graph paper that has blue lines on it" /></div>
+<figcaption>Image caption,
+<div>A seismograph reading of a 2013 earthquake in Taiwan</div>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="text-block">
+<h3>Protection</h3>
+<p>The most effective way to reduce risks is earthquake protection. Buildings can be constructed to resist the shaking associated with earthquakes. This can be done with&nbsp;<span data-testid="inline-glossary-term-wrapper"><button tabindex="0" type="button"><dfn>counterweights</dfn></button></span>&nbsp;that correct the movement of the building and&nbsp;<span data-testid="inline-glossary-term-wrapper"><button tabindex="0" type="button"><dfn>cross-bracing</dfn></button></span>&nbsp;to reinforce the structure, as shown in the image below.</p>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="infographic-block">
+<figure>
+<div>
+<div><picture><source srcset="https://bam.files.bbci.co.uk/bam/live/content/zbfnf82/small" type="false" /><source srcset="https://bam.files.bbci.co.uk/bam/live/content/zbfnf82/large" type="image/png" media="(min-width: 63rem)" /><source srcset="https://bam.files.bbci.co.uk/bam/live/content/zbfnf82/medium" type="image/png" media="(min-width: 37.5rem)" /><img src="https://bam.files.bbci.co.uk/bam/live/content/zbfnf82/small" srcset="https://bam.files.bbci.co.uk/bam/live/content/zbfnf82/small" alt="An earthquake-proof building" /></picture></div>
+</div>
+<figcaption>Figure caption,
+<div>An earthquake-proof building</div>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div data-layout="single">
+<div>
+<div data-component="text-block">
+<h3>Preparation</h3>
+<p>By training people what to do in the event of an earthquake, countries can increase the chances of survival in the event of an earthquake. This can be in the form of earthquake drills in schools or training emergency services on how to respond.</p>
+</div>
+</div>
+</div>
